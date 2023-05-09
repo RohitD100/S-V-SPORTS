@@ -10,11 +10,11 @@ export const Bannercontainer = styled(Box)(({ theme }) => ({
       width : "100%"
     },
     [theme.breakpoints.down("md")] : {
-      height : "100%"
+      height : "100vh"
         
     },
     [theme.breakpoints.down("lg")]: {
-        height : "100%"
+        height : "100vh"
 
     }
 

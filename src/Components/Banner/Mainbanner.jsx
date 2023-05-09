@@ -1,5 +1,5 @@
 
-import image from "../Picsart_23-05-06_11-15-10-653.jpg"
+import image from "./Picsart_23-05-06_11-15-10-653.jpg"
 import {Bannercontainer} from './bannerstyle'
 
 export const Mainbanner = () =>{
